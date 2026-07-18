@@ -7,7 +7,7 @@ cask "brosw" do
   desc "Chrome profile picker that runs as your default browser"
   homepage "https://github.com/pictiny/brosw"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Brosw.app"
 
