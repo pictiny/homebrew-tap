@@ -1,6 +1,6 @@
 cask "brosw" do
-  version "0.2.1"
-  sha256 "c045b08d1dc6d02160ecaa6dcff9373986807f58fef1022e09a0369bbf735a11"
+  version "0.3.0"
+  sha256 "e1530948aafc89bcee5e648b6fe5239fddca0d0f7703579a5cf0e52faed3293f"
 
   url "https://github.com/pictiny/brosw/releases/download/v#{version}/Brosw-#{version}.zip"
   name "Brosw"
